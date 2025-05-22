@@ -1,5 +1,39 @@
 # MAZA
-Index.Html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAZAMW - Premium Entertainment</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>MAZAMW</h1>
+        <p>Premium Entertainment</p>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#movies">Movies</a></li>
+                <li><a href="#music">Music</a></li>
+                <li><a href="#subscription">Subscription</a></li>
+                <li><a href="#about">About</a></li>
+            </ul>
+        </nav>
+        <div class="auth-buttons">
+            <button class="login-btn">Login</button>
+            <button class="signup-btn">Sign Up</button>
+        </div>
+    </header>
+    <main>
+        <section class="hero">
+            <h2>Unlimited Entertainment</h2>
+            <p>Stream the latest movies and music anywhere, anytime</p>
+            <button class="cta-btn">Start Your Free Trial</button>
+        </section>
+    </main>
+</body>
+</html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
